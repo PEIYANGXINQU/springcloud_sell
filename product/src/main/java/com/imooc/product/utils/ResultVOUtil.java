@@ -1,6 +1,6 @@
-package com.imooc.utils;
+package com.imooc.product.utils;
 
-import com.imooc.vo.ResultVO;
+import com.imooc.product.vo.ResultVO;
 
 /**
  * @author hellozjf
